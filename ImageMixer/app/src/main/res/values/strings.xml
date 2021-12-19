@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ImageMixer</string>
+    <string name="title_activity_mixphoto">mixphoto</string>
+    <string-array name="image_ids">
+
+        <item>@drawable/bg_main</item>
+        <item>@drawable/bg_mainscreen</item>
+
+
+
+    </string-array>
+</resources>

@@ -1,1 +1,1 @@
-# app-image-mixer
+Phone app for combining images and applying filter to them.
